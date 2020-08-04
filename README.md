@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 Sou um cara determinado em aprender programação, sempre busco estudar novas tecnologias.
 <br />Atualmente estou gostando mais de trabalhar como FrontEnd :computer:
 <br />Estou estudando o máximo para ser FullStack Developer :computer:
+  
   :bulb:  &nbsp; Estou estudando/trabalhando na **LighTi**
   <br/> :purple_heart: &nbsp; Trabalho com projetos em .Net & JavaScript
   <br/> :computer: &nbsp; Estou focado em aprender : JavaScript, Node.js & Angular.
