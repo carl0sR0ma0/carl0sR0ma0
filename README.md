@@ -26,6 +26,7 @@ Here are some ideas to get you started:
  <br />:large_blue_diamond: &nbsp; HTML & CSS
  <br />:yellow_heart: &nbsp; JavaScript
  <br />:green_heart: &nbsp; NodeJS & :heart: Angular
+ <br />:game_die: &nbsp; PostegreSQL, SQLServer e MySQL
  
 ## Considerações
  💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, e seriados no Netflix
