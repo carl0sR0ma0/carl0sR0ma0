@@ -24,7 +24,7 @@ Here are some ideas to get you started:
  :purple_heart: &nbsp; C# e Xamarin;
  <br />:closed_book: &nbsp; Delphi;
  <br />:large_blue_diamond: &nbsp; HTML & CSS
- <br />:yellow_heart: JavaScript
+ <br />:yellow_heart: &nbsp; JavaScript
  <br />:green_heart: &nbsp; NodeJS & :heart: Angular
  
 ## Considerações
