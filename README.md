@@ -16,15 +16,16 @@ Here are some ideas to get you started:
 # Carlos Romão
 ## Olá pessoal 👋
  :mortar_board: &nbsp; Cursando Análise e Desenvolvimento de Sistemas;
- <br />:pager: &nbsp; Gosto bastante de trabalhar no Front End;:computer:
- <br />:electric_plug: &nbsp; Estou aprimorando meus conhecimentos e Back End;:computer:
+ <br />:pager: &nbsp; Gosto bastante de trabalhar no Front End; :computer:
+ <br />:electric_plug: &nbsp; Estou aprimorando meus conhecimentos em Back End; :computer:
  <br />:bulb: &nbsp; Estou estudando/trabalhando na **LighTi**
  
 ## :zap: Stacks e Skills
  :purple_heart: &nbsp; C# e Xamarin;
  <br />:closed_book: &nbsp; Delphi;
- <br />:large_blue_diamond: &nbsp; HTML, CSS, JavaScript
- <br />:computer: &nbsp; NodeJS & Angular
+ <br />:large_blue_diamond: &nbsp; HTML & CSS
+ <br />:yellow_heart: JavaScript
+ <br />:green_heart: &nbsp; NodeJS & :heart: Angular
  
 ## Considerações
  💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, e seriados no Netflix
