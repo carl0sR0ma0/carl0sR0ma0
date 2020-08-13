@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 # Carlos Romão
 ## Olá pessoal 👋
  :mortar_board: &nbsp; Cursando Análise e Desenvolvimento de Sistemas;
- :pager: &nbsp; Gosto bastante de trabalhar no Front End;:computer:
- :electric_plug: &nbsp; Estou aprimorando meus conhecimentos e Back End;:computer:
- :bulb:  &nbsp; Estou estudando/trabalhando na **LighTi**
+ <br />:pager: &nbsp; Gosto bastante de trabalhar no Front End;:computer:
+ <br />:electric_plug: &nbsp; Estou aprimorando meus conhecimentos e Back End;:computer:
+ <br />:bulb:  &nbsp; Estou estudando/trabalhando na **LighTi**
  
 ## :zap: Stacks e Skills
  :purple_heart: &nbsp; C# e Xamarin;
