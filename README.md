@@ -18,14 +18,14 @@ Here are some ideas to get you started:
  :mortar_board: &nbsp; Cursando Análise e Desenvolvimento de Sistemas;
  <br />:pager: &nbsp; Gosto bastante de trabalhar no Front End; :computer:
  <br />:electric_plug: &nbsp; Estou aprimorando meus conhecimentos em Back End; :computer:
- <br />:bulb: &nbsp; Estou estudando/trabalhando na **LighTi**
+ <br />:bulb: &nbsp; Estou estudando/trabalhando na **Pentagro**
  
 ## :zap: Stacks e Skills
  :purple_heart: &nbsp; C# e Xamarin;
  <br />:heart: &nbsp; Delphi;
  <br />:large_blue_diamond: &nbsp; HTML & CSS
  <br />:yellow_heart: &nbsp; JavaScript
- <br />:green_heart: &nbsp; NodeJS & :heart: Angular
+ <br />:green_heart: &nbsp; VueJS, NodeJS & :heart: Angular
  <br />:game_die: &nbsp; PostegreSQL, SQLServer e MySQL
  
 ## Considerações
