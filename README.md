@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 # Carlos Romão
 ## Olá pessoal 👋
  :mortar_board: &nbsp; Cursando Análise e Desenvolvimento de Sistemas;
- <br />:pager: &nbsp; Gosto bastante de trabalhar no Front End; :computer:
- <br />:electric_plug: &nbsp; Estou aprimorando meus conhecimentos em Back End; :computer:
+ <br />:pager: &nbsp; Gosto bastante de trabalhar no Back End e com :game_die: Banco e dados; :computer:
+ <br />:electric_plug: &nbsp; Estou aprimorando meus conhecimentos em Front End; :computer:
  <br />:bulb: &nbsp; Estou estudando/trabalhando na **Pentagro**
  
 ## :zap: Stacks e Skills
